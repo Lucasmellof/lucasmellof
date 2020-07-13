@@ -1,16 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+**Lucas(carmello) here,**!<br>
+Java/Kotlin developer, focused in backend system, also have skills in others areas 😁
 
-<!--
-**Lucasmellof/lucasmellof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on Huddouting team
+### ⚡ Some stuff about me:
+  - 🔭 I’m currently working on everything that i love to do.
+  - 🎓 I love learning new technologies and tools! 
+### 📫 You can find me at:
+  - `eu@lucasmellof.wtf`
+  - Discord: `carmello#0760`
