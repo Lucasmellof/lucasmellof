@@ -1,5 +1,5 @@
 # Hi there 👋
-**Lucas(carmello) here,**!<br>
+**Lucas(carmello) here**<br>
 Java/Kotlin developer, focused in backend system, also have skills in others areas 😁
 
 I'm currently working on Huddouting team
