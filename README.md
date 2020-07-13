@@ -7,5 +7,4 @@ I'm currently working on Huddouting team
   - 🔭 I’m currently working on everything that i love to do.
   - 🎓 I love learning new technologies and tools! 
 ### 📫 You can find me at:
-  - `eu@lucasmellof.wtf`
   - Discord: `carmello#0760`
