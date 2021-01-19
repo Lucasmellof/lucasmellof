@@ -8,3 +8,6 @@ I'm currently working on Ultimato-Plus
   - 🎓 I love learning new technologies and tools! 
 ### 📫 You can find me at:
   - Discord: `carmello#0760`
+
+### ♥️ Thanks for visiting:
+![VisitorCount](https://gpvc.arturio.dev/Lucasmellof)
