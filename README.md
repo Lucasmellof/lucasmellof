@@ -24,12 +24,6 @@ I'm currently working on Rede Plus and OlimpoMC
 <img alt="NodeJS" src="https://img.shields.io/badge/Python-14354C.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-* Frameworks
-<p>
-<img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-</p>
-
-
 * Databases
 <p>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -38,9 +32,7 @@ I'm currently working on Rede Plus and OlimpoMC
 
 * Servers
 <p>
-
 <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
-<img alt="Jenkins" src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
 * Knowledge operating system
@@ -48,7 +40,6 @@ I'm currently working on Rede Plus and OlimpoMC
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img alt="Android" src="https://img.shields.io/badge/Android-05150C?style=for-the-badge&logo=android&logoColor=white" />
-
 </p>
 
 * Tools
