@@ -60,7 +60,7 @@ I'm currently working on Rede Plus and OlimpoMC
 <details> 
 <summary>Github Stats</summary>
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Lucasmellof&hide_title=true&hide_border=true&langs_count=5)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Lucasmellof&hide_title=true&hide_border=true&langs_count=5&layout=compact&theme=dark)
 <!--Github-status-->
 ![stats](https://github-readme-stats.vercel.app/api?username=lucasmellof&show_icons=true&theme=dark)
  </details>
