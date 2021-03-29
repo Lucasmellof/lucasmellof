@@ -2,7 +2,7 @@
 **Lucas(carmello) here**<br>
 Java/Kotlin developer, focused in backend system, also have skills in others areas 😁
 
-I'm currently working on Rede Plus, OlimpoMC and (BrPacks)[https://brpacks.com]
+I'm currently working on Rede Plus, OlimpoMC and [BrPacks](https://brpacks.com)
 ### ⚡ Some stuff about me:
   - 🔭 I’m currently working on everything that i love to do.
   - 🎓 I love learning new technologies and tools! 
