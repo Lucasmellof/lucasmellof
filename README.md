@@ -8,6 +8,7 @@ I'm currently working on Rede Plus, OlimpoMC and [BrPacks](https://brpacks.com)
   - 🎓 I love learning new technologies and tools! 
 ### 📫 You can find me at:
   - Discord: `carmello#0760`
+  - E-mail: [`lucas.freitas@brpacks.com`](mailto:lucas.freitas@brpacks.com)
 
 
 ### ♥️ Thanks for visiting:
