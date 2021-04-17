@@ -64,7 +64,7 @@ I'm currently working on Rede Plus, OlimpoMC and [BrPacks](https://brpacks.com)
 
 | Streak | Overview |
 | --- | --- |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucasmellof&theme=dark&hide_border=true&stroke=645BEB&ring=645BEB&fire=645BEB&currStreakLabel=645BEB)](https://git.io/streak-stats) | [![Lucasmellof stats](https://github-readme-stats.vercel.app/api?username=JCraftplay&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/Lucasmellof/) 
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucasmellof&theme=dark&hide_border=true&stroke=645BEB&ring=645BEB&fire=645BEB&currStreakLabel=645BEB)](https://git.io/streak-stats) | [![Lucasmellof stats](https://github-readme-stats.vercel.app/api?username=Lucasmellof&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/Lucasmellof/) 
 
 <center>
 
