@@ -20,13 +20,15 @@ I'm currently working on Rede Plus, OlimpoMC and [BrPacks](https://brpacks.com)
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/Python-14354C.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%3178C6"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=2343853D"/>
+<img alt="Yarn" src="https://img.shields.io/badge/yarn%20-%23323330.svg?&style=for-the-badge&logo=yarn&logoColor=2C8EBB"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 * Databases
 <p>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=2300f"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
@@ -56,11 +58,17 @@ I'm currently working on Rede Plus, OlimpoMC and [BrPacks](https://brpacks.com)
 <img alt="After Effects" src="https://img.shields.io/badge/-After%20Effects-9999FF?&style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
 </details>
 <br/>
-
 <details> 
 <summary>Github Stats</summary>
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Lucasmellof&hide_title=true&hide_border=true&langs_count=5&layout=compact&theme=dark)
-<!--Github-status-->
-![stats](https://github-readme-stats.vercel.app/api?username=lucasmellof&show_icons=true&theme=dark)
+| Streak | Overview |
+| --- | --- |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucasmellof&theme=dark&hide_border=true&stroke=645BEB&ring=645BEB&fire=645BEB&currStreakLabel=645BEB)](https://git.io/streak-stats) | [![Lucasmellof stats](https://github-readme-stats.vercel.app/api?username=JCraftplay&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/Lucasmellof/) 
+
+<center>
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucasmellof&layout=compact&theme=tokyonight)](https://github.com/Lucasmellof)
+
+</center>
+
  </details>
