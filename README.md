@@ -2,12 +2,13 @@
 **Lucas(carmello) here**<br>
 Java/Kotlin developer, focused in backend system, also have skills in others areas 😁
 
-I'm currently working on Rede Plus and OlimpoMC
+I'm currently working on OlimpoMC and [BrPacks](https://brpacks.com)
 ### ⚡ Some stuff about me:
   - 🔭 I’m currently working on everything that i love to do.
   - 🎓 I love learning new technologies and tools! 
 ### 📫 You can find me at:
   - Discord: `carmello#0760`
+  - E-mail: [`lucas.freitas@brpacks.com`](mailto:lucas.freitas@brpacks.com)
 
 
 ### ♥️ Thanks for visiting:
@@ -23,21 +24,18 @@ I'm currently working on Rede Plus and OlimpoMC
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%3178C6"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=2343853D"/>
 <img alt="Yarn" src="https://img.shields.io/badge/yarn%20-%23323330.svg?&style=for-the-badge&logo=yarn&logoColor=2C8EBB"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 * Databases
 <p>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=2300f"/>
-<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="PostegreSQl" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 * Servers
 <p>
 <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 * Knowledge operating system
@@ -45,7 +43,6 @@ I'm currently working on Rede Plus and OlimpoMC
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img alt="Android" src="https://img.shields.io/badge/Android-05150C?style=for-the-badge&logo=android&logoColor=white" />
-<img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
 </p>
 
 * Tools
@@ -60,8 +57,6 @@ I'm currently working on Rede Plus and OlimpoMC
 <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img alt="Premiere Pro" src="https://img.shields.io/badge/-Premiere%20Pro-9999FF?&style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 <img alt="After Effects" src="https://img.shields.io/badge/-After%20Effects-9999FF?&style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
-<img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white">
-<img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
 </details>
 <br/>
 <details> 
@@ -69,7 +64,7 @@ I'm currently working on Rede Plus and OlimpoMC
 
 | Streak | Overview |
 | --- | --- |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucasmellof&theme=dark&hide_border=true&stroke=645BEB&ring=645BEB&fire=645BEB&currStreakLabel=645BEB)](https://git.io/streak-stats) | [![Lucasmellof stats](https://github-readme-stats.vercel.app/api?username=JCraftplay&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/Lucasmellof/) 
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucasmellof&theme=dark&hide_border=true&stroke=645BEB&ring=645BEB&fire=645BEB&currStreakLabel=645BEB)](https://git.io/streak-stats) | [![Lucasmellof stats](https://github-readme-stats.vercel.app/api?username=Lucasmellof&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/Lucasmellof/) 
 
 <center>
 
