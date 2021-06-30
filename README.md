@@ -11,7 +11,7 @@ I'm currently working on Rede Plus and OlimpoMC
 
 
 ### ♥️ Thanks for visiting:
-![VisitorCount](https://gpvc.arturio.dev/Lucasmellof1)
+![VisitorCount](https://gpvc.arturio.dev/Lucasmellof)
 <details>
 <summary>Skills</summary>
 <br>
