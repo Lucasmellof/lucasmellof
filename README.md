@@ -8,7 +8,7 @@ I'm currently working on OlimpoMC and [BrPacks](https://brpacks.com)
   - 🎓 I love learning new technologies and tools! 
 ### 📫 You can find me at:
   - Discord: `carmello#0760`
-  - E-mail: [`lucas.freitas@brpacks.com`](mailto:lucas.freitas@brpacks.com)
+  - E-mail: [`eu@lucasmellof.com`](mailto:eu@lucasmellof.com)
 
 
 ### ♥️ Thanks for visiting:
