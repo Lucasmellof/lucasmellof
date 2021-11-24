@@ -13,6 +13,9 @@ I'm currently working on personal projects and [BrPacks](https://brpacks.com)
 
 ### ♥️ Thanks for visiting:
 ![VisitorCount](https://gpvc.arturio.dev/Lucasmellof)
+
+### ⏱️ Total time coded since Feb 22 2021:
+[![wakatime](https://wakatime.com/badge/user/83668bde-d0b5-40d8-a000-4061ec8d5db6.svg)](https://wakatime.com/@83668bde-d0b5-40d8-a000-4061ec8d5db6) 
 <details>
 <summary>Skills</summary>
 <br>
