@@ -19,14 +19,13 @@ I'm currently working on personal projects and [BrPacks](https://brpacks.com)
 <details>
 <summary>Skills</summary>
 <br>
+
 *  Programming languages
 <p>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%3178C6"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=2343853D"/>
-<img alt="Yarn" src="https://img.shields.io/badge/yarn%20-%23323330.svg?&style=for-the-badge&logo=yarn&logoColor=2C8EBB"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
@@ -54,6 +53,8 @@ I'm currently working on personal projects and [BrPacks](https://brpacks.com)
 
 * Tools
 <p>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=2343853D"/>
+<img alt="Yarn" src="https://img.shields.io/badge/yarn%20-%23323330.svg?&style=for-the-badge&logo=yarn&logoColor=2C8EBB"/>
 <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?&style=for-the-badge&logo=androidstudio&logoColor=white"/>
