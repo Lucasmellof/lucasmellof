@@ -1,6 +1,7 @@
 # Hi there 👋
 **Lucas(carmello) here**<br>
-Java/Kotlin developer, focused in backend system, also have skills in others areas 😁
+
+Fullstack developer and Java/Kotlin lover, focused in backend system, also have skills in others areas 😁
 
 I'm currently working on personal projects.
 ### ⚡ Some stuff about me:
