@@ -79,7 +79,7 @@ I'm currently working on personal projects.
 
 <center>
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucasmellof&layout=compact&theme=tokyonight)](https://github.com/Lucasmellof)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucasmellof&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/Lucasmellof)
 
 </center>
 
