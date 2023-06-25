@@ -13,7 +13,7 @@ I'm currently working on personal projects.
 
 
 ### ♥️ Thanks for visiting:
-![VisitorCount](https://gpvc.arturio.dev/Lucasmellof)
+![VisitorCount](https://komarev.com/ghpvc/?username=Lucasmellof)
 
 ### ⏱️ Total time coded since Feb 22 2021:
 [![wakatime](https://wakatime.com/badge/user/83668bde-d0b5-40d8-a000-4061ec8d5db6.svg)](https://wakatime.com/@83668bde-d0b5-40d8-a000-4061ec8d5db6) 
