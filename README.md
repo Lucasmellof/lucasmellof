@@ -80,7 +80,9 @@ I'm currently working on personal projects.
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucasmellof&theme=dark&hide_border=true&stroke=645BEB&ring=645BEB&fire=645BEB&currStreakLabel=645BEB)](https://git.io/streak-stats) | [![Lucasmellof stats](https://gh-analytics.vercel.app/api?username=lucasmellof&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/Lucasmellof/) 
 
 <center>
+  
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucasmellof&layout=compact&theme=tokyonight&langs_count=15)](https://github.com/Lucasmellof)
+
 </center>
 
  </details>
