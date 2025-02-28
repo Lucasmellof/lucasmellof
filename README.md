@@ -4,21 +4,21 @@ I'm a FullStack Developer specializing in backend systems, with a diverse backgr
 
 Although backend development is my core specialty, I'm actively exploring networking and DevOps to enhance my skill set. I'm currently involved in personal projects and working at [ENX Services](https://github.com/enxservices).
 
-## About Me
+## 👤 About Me
 
 - 🔭 Currently working at [ENX Services](https://github.com/enxservices).
 - 🎓 Passionate about learning new technologies and tools.
 - 💻 Experienced with Java, Kotlin, Golang, NextJS, SvelteKit, PHP, and more.
 - ⚙️ Have been involved in networking and DevOps tasks, continuously expanding my skills in these areas.
 
-## Contact
+## 📬 Contact 
 
 - **Discord:** `carmello`
 - **Email:** [contact@lucasmf.com](mailto:contact@lucasmf.com)
 
-## Skills
+## 🛠️ Skills
 
-### Programming Languages
+### 👨‍💻 Programming Languages
 <p>
   <img alt="Java" src="https://img.shields.io/badge/java-%23000000.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -32,7 +32,7 @@ Although backend development is my core specialty, I'm actively exploring networ
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
-### Databases
+### 🗄️ Databases
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
@@ -43,7 +43,7 @@ Although backend development is my core specialty, I'm actively exploring networ
   <img alt="InfluxDB" src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
 </p>
 
-### Servers
+### 🌐 Servers
 <p>
   <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
   <img alt="Caddy" src="https://img.shields.io/badge/Caddy-00A7D0?style=for-the-badge&logo=caddy&logoColor=white"/>
@@ -56,7 +56,7 @@ Although backend development is my core specialty, I'm actively exploring networ
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### Operating Systems
+### 🖥️ Operating Systems
 <p>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
